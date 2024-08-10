@@ -36,7 +36,7 @@ The app is structured to provide a seamless experience on smaller screens, with 
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/CompassMobileDollarTree.git
+   git clone https://github.com/robert1987b/CompassMobileDollarTree.git
 
 2. **Change directory into the project**:
    ```bash

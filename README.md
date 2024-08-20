@@ -21,7 +21,7 @@ The app is structured to provide a seamless experience on smaller screens, with 
 - **Name**: Robert Brito
 - **Email**: robert1987brito@outlook.com
 - **Address**: 532 Pinnickinnick Street Carteret, NJ 07008
-- **Website**: Compass Mobile Dollar Tree
+- **Website**: [Compass Mobile Dollar Tree](https://www.dollartree-compass.com)
 - My name is Robert Brito I am a seasoned mobile application developer and I have over a decade of experience in crafting user-friendly and efficient apps.
 - With a strong focus on finance and technology, I have developed Compass Mobile Dollar Tree to empower users to manage their expenses effectively, no matter where they are.
 - I am very passionate about developing smart and user-friendly software.
